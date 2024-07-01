@@ -1,0 +1,11 @@
+langchain
+langchain-huggingface
+huggingface_hub
+scholarly
+arxiv
+pandas
+biopython
+requests
+beautifulsoup4
+fpdf
+streamlit
